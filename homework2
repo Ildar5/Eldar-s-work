@@ -1,0 +1,126 @@
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Eldar's homework</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="common/bootstrap.min.css" rel="stylesheet">
+
+</head>
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div >
+                <img src="common/fon.jpg" style="margin-left: 88px; " alt="" >
+                <input  type="button" class="btn-primary btn-lg" value="ELDAR" style="vertical-align: text-top; position:relative;top: -250px; margin-left: 545px">
+                <h2 style="vertical-align: text-top; position:relative;top: -400px; text-align: center;"  >IF YOU ELDAR CLICK THE BUTTON!!!(DON'T FORGET IF)</h2>
+            </div>
+        </div>
+        <div class="row">
+
+        </div>
+        <!-- row 1 -->
+        <div class="row">
+
+            <div class="col-md-3 col-xs-6">
+                <p><img src="common/6.jpg" alt="" class="img-thumbnail" ></p>
+                <p><a href="#"> test </a> </p>
+                <p> test </p>
+            </div>
+
+            <div class="col-md-3 col-xs-6">
+                <p><img src="common/3.jpg" alt="" class="img-thumbnail"> </p>
+                <p><a href="#">Help the Palestinians </a></p>
+                <p>
+                    Many Palestinian civilians have been displaced, wounded and torn from their loved ones. Many will have to start over and rebuild everything they have lost. ...
+                </p>
+            </div>
+
+            <div class="col-md-3 col-xs-6">
+                <p><img src="common/12.jpg" alt="" class="img-thumbnail"></p>
+                <p><a href="#">Support The Ukrainian Revolution</a></p>
+                <p>
+                    This cause and photo was the genesis for us building wollit. Seeing the plight of the people of Ukraine and understanding we could help in ...
+                </p>
+            </div>
+
+            <div class="col-md-3 col-sx-6">
+                <p><img src="common/5.jpg" alt="" class="img-thumbnail"></p>
+                <p><a href="#">Wikipedia Foundation via Jimmy Wales</a></p>
+                <p>
+                    Jimmy Wales is experimenting with Bitcoin and made the following post on Reddit. All donations to his address will get forwarded to the Wikipedia Foundation ...
+                </p>
+            </div>
+        </div>
+        <!-- row 2 -->
+        <div class="row">
+
+            <div class="col-md-3 col-sx-6">
+                <p><img src="common/9.jpg" alt=""></p>
+                <p><a href="#">World Spay Day</a></p>
+                <p>
+                    We're doing something special to celebrate World Spay Day next year! Did you know that 4 million cats and dogs are put down in the ...
+                </p>
+            </div>
+
+            <div class="col-md-3 col-sx-6">
+                <p><img src="common/2.jpg" alt=""></p>
+                <p><a href="#">Israel Funds</a></p>
+                <p>
+                    Help the poorest families in Tel Aviv by making a donation. We distribute food every day to hundreds of people, shelter for the poor and ...
+                </p>
+            </div>
+
+            <div class="col-md-3 col-sx-6">
+                <p><img src="common/11.jpg" alt=""></p>
+                <p><a href="#">SAVING CHILDREN TO HUNGER AROUND THE WORLD</a> </p>
+                <p>
+                    Worldwide, the number of hungry people has dropped significantly over the past two decades, but 842 million people continue to struggle with hunger every day. ...
+                </p>
+            </div>
+            <div class="col-md-3 col-sx-6">
+                <p><img src="common/1.jpg" alt=""></p>
+                <p><a href="#">FlexingLads</a></p>
+                <p>
+                    Promoting fitness through body culture, and funding a website to that purpose. We feature natural bodybuilders to support their training and to inspire others to ...
+                </p>
+            </div>
+        </div>
+        <!-- row 3 -->
+        <div class="row">
+
+            <div class="col-md-3 col-sx-6">
+                <p><img src="common/7.jpg" alt=""></p>
+                <p><a href="#">Let's help Venezuela</a></p>
+                <p>
+                    Following the current situation in Venezuela this campaign will contribute for the purpose of getting help for those protesting for a better life, students, young ...
+                </p>
+            </div>
+            <div class="col-md-3 col-sx-6">
+                <p><img src="common/10.jpg" alt=""></p>
+                <p><a href="#">Sean's Outpost</a></p>
+                <p>
+                    If you’re interested in helping the less fortunate among us, you are in the right place. If you love Bitcoin, so much the better. There’s ...
+                </p>
+            </div>
+            <div class="col-md-3 col-sx-6">
+                <p><img src="common/4.jpg"></p>
+                <p><a href="#">Bitcoin Campaign For Marijuana Legalization</a></p>
+                <p>
+                    Our #1 goal is to push for the legalization of Marijuana in California We are striving to explore the value and utility of the Bitcoin ...
+                </p>
+            </div>
+            <div class="col-md-3 col-sx-6">
+                <p><img src="common/8.jpg"></p>
+                <p><a href="#">Donations For Dorian</a></p>
+                <p>
+                    Hi everyone, Andreas M. Antonopoulos here. I'm fundraising for Dorian Nakamoto, the person named in the newsweak article. I have no idea if this person ...
+                </p>
+            </div>
+
+        </div>
+    </div>
+</body>
+</html>
