@@ -1,0 +1,235 @@
+Eldar-s-work
+============
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title> Eldar's homework </title>
+    <link type="text/css" rel="stylesheet" href="css/common.css" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="common/bootstrap/css/bootstrap.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<div id="containers">
+    <div id="top-menu">
+
+        <nav class="menu">
+
+            <ul style="margin-left: 100px; border: none">
+
+                <li><a href="#" style="color: #ffffff;">Dashboard</a></li>
+                <li><a href="#" style="color:#ffffff;">Setting</a></li>
+                <li><a href="#" style="color:#ffffff">Profile</a></li>
+                <li><a href="#" style="color:#ffffff">Help</a></li>
+                <li><input class="search" placeholder="search"/></li>
+
+            </ul>
+
+        </nav>
+
+    </div>
+    <H1>Dashboard</H1>
+    <div class="container-fluid">
+
+
+
+        <div class="row text-center">
+            <div class="col-md-3 col-sx-6">
+
+                    <p><img src="resources/ss.jpg" class="img-circle" alt=""></p>
+
+
+            </div>
+
+                <div class="col-md-3 col-sx-6">
+                    <p><img src="resources/mm.jpg" class="img-circle" alt=""></p>
+
+                </div>
+                <div class="col-md-3 col-sx-6">
+                <p><img src="resources/ss.jpg" class="img-circle" alt=""></p>
+
+                </div>
+                <div class="col-md-3 col-sx-6">
+                <p><img src="resources/mm.jpg" class="img-circle" alt=""></p>
+
+                </div>
+        </div>
+
+
+        <div class="row text-center">
+            <div class="col-md-3 col-sx-6">
+
+
+                <h3>Label</h3>
+
+
+            </div>
+
+            <div class="col-md-3 col-sx-6">
+
+                <h3>Label</h3>
+
+            </div>
+            <div class="col-md-3 col-sx-6">
+
+                <h3>Label</h3>
+
+            </div>
+            <div class="col-md-3 col-sx-6">
+
+                <h3>Label</h3>
+
+            </div>
+        </div>
+
+
+        <div class="row text-center">
+            <div class="col-md-3 col-sx-6">
+
+
+                <h4>Something else</h4>
+
+            </div>
+
+            <div class="col-md-3 col-sx-6">
+
+                <h4>Something else</h4>
+            </div>
+            <div class="col-md-3 col-sx-6">
+
+                <h4>Something else</h4>
+            </div>
+            <div class="col-md-3 col-sx-6">
+
+
+                <h4>Something else</h4>
+            </div>
+        </div>
+
+
+        </div>
+
+    <h2 class="caption">Section Title</h2>
+
+
+    <table class="table table-striped">
+
+            <thead>
+
+                <tr>
+
+                    <th>#</th>
+                    <th>Header</th>
+                    <th>Header</th>
+                    <th>Header</th>
+                    <th>Header</th>
+
+                </tr>
+
+            </thead>
+
+            <tbody>
+
+                <tr>
+
+                    <td>1,001</td>
+                    <td>Lorem</td>
+                    <td>ipsum</td>
+                    <td>dolor</td>
+                    <td>sit</td>
+
+                </tr>
+
+                <tr>
+
+                    <td>1,002</td>
+                    <td>amet</td>
+                    <td>consectetur</td>
+                    <td>adipiscing</td>
+                    <td>elit</td>
+
+                </tr>
+
+                <tr>
+
+                    <td>1,003</td>
+                    <td>Integer</td>
+                    <td>nec</td>
+                    <td>odio</td>
+                    <td>Praesent</td>
+
+                </tr>
+
+                <tr>
+
+                    <td>1,003</td>
+                    <td>libero</td>
+                    <td>Sed</td>
+                    <td>cursus</td>
+                    <td>ante</td>
+
+                </tr>
+
+                <tr>
+
+                    <td>1,004</td>
+                    <td>dapibus</td>
+                    <td>diam</td>
+                    <td>Sed</td>
+                    <td>nisi</td>
+
+                </tr>
+
+                <tr>
+
+                    <td>1,005</td>
+                    <td>Nulla</td>
+                    <td>quis</td>
+                    <td>sem</td>
+                    <td>at</td>
+
+                </tr>
+
+
+            </tbody>
+
+    </table>
+    <div class="row">
+        <h1 class="text-center">Marketing Stuff!</h1>
+        <h3 class="text-center">
+            ARE YOU SURE?
+        </h3>
+        <button type="button" class="btn btn-success center-block">
+            YES
+        </button>
+
+    </div>
+    <div class="row">
+        <div class="col-md-4 col sx-4">
+            <h2>Warning!</h2>
+            <h4>W Wa War Warn</h4>
+                <h4>Warni  Warni</h4>
+                <h4>Warnin Warning</h4>
+            <button class="btn btn-primary">View details&gt&gt</button>
+        </div>
+
+        <div class="col-md-4 col-sx-4">
+            <h2>C++</h2>
+            <button class="btn btn-primary">View details&gt;&gt;</button>
+        </div>
+        <div class="col-md-4 col-sx-4">
+            <h2>what is the SCALA??</h2>
+            <button class="btn btn-primary">View details&gt;&gt</button>
+        </div>
+
+    </div>
+    <div class="col-lg-1">
+        <h5 class="text-inline">Company 2014</h5>
+    </div>
+    </div>
+</body>
+</html>
